@@ -11,7 +11,7 @@ This application allows users to save their favorite books to the back end for e
 
 To power the book search functionality, the application utilizes the Google Books API search engine, which is integrated into the app using a GraphQL API and Apollo Server.
 
-Demo: [Book Search Engine](https://react-profolio-frank.herokuapp.com/)
+Demo: [Book Search Engine](https://booksearch-engine-mern-app.herokuapp.com/)
 
 ## Table of Contents
 - [Installation](#installation)
