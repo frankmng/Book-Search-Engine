@@ -2,7 +2,7 @@
 # MERN Book Search Engine
 ## Description
 
-![MERN-BOOK-SEARCH](https://raw.githubusercontent.com/frankmng/Book-Search-Engine/blob/main/mern-book-search.png)
+![MERN-BOOK-SEARCH](mern-book-search.png)
 
 
 The Book Search Engine is a full-stack application built with the MERN stack, featuring a React-based front-end, a MongoDB database, and a Node.js/Express.js server and API. 
