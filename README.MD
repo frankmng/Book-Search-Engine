@@ -1,6 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # MERN Book Search Engine
 ## Description
+
 ![MERN-BOOK-SEARCH](https://raw.githubusercontent.com/frankmng/Book-Search-Engine/blob/main/mern-book-search.png)
 
 
